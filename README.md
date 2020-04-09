@@ -1,1 +1,2 @@
-# 30_DaysOf_Code_Day-06_Image_gallery_with_grid
+# 30_DaysOf_Code_Day-07_Image_gallery_with_grid
+https://fasasisherif.github.io/30_DaysOf_Code_Day-06_Image_gallery_with_grid/Image_gallery_with_grid.html
